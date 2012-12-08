@@ -1,4 +1,4 @@
 komapon
 =======
 
-Application for Kozawawa University Cafeteria
+Android application for Komazawa University Cafeteria users.
